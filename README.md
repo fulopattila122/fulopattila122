@@ -27,6 +27,7 @@
 - [E-commerce Platform For Laravel](https://medium.com/@attilafulop/e-commerce-platform-for-laravel-c09a2bcfe8c6)
 - [Framework Agnostic PHP Applications](https://medium.com/@attilafulop/framework-agnostic-php-applications-6d0d622be02c)
 - [Introducing Agile? 5 Tips to Succeed](https://medium.com/@attilafulop/introducing-agile-5-tips-to-succeed-34c2cc351a22)
+- [REST APIs vs. Backend for Frontend](https://medium.com/@attilafulop/rest-apis-vs-backend-for-frontend-8f7abad51c7)
 
 ## Hire me for Consulting
 
