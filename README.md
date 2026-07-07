@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=fulopattila122&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Open Source
 
 ### Vanilo E-commerce Framework for Laravel
@@ -28,7 +26,3 @@
 - [Framework Agnostic PHP Applications](https://medium.com/@attilafulop/framework-agnostic-php-applications-6d0d622be02c)
 - [Introducing Agile? 5 Tips to Succeed](https://medium.com/@attilafulop/introducing-agile-5-tips-to-succeed-34c2cc351a22)
 - [REST APIs vs. Backend for Frontend](https://medium.com/@attilafulop/rest-apis-vs-backend-for-frontend-8f7abad51c7)
-
-## Hire me for Consulting
-
-Book an appointment with me on [calendar.com](https://www.calendar.com/fulopattila122/timeslot) <- Please add the topic in the notes field
